@@ -1,4 +1,4 @@
-package com.gazda.algorithms.graph.model.graph;
+package com.gazda.algorithms.graph.dijkstra.model.graph;
 
 import java.util.List;
 

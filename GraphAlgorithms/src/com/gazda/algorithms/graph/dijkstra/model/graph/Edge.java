@@ -1,6 +1,6 @@
-package com.gazda.algorithms.graph.model.graph;
+package com.gazda.algorithms.graph.dijkstra.model.graph;
 
-import com.gazda.algorithms.graph.model.metric.Metric;
+import com.gazda.algorithms.graph.dijkstra.model.metric.Metric;
 
 public class Edge {
     private Vertex firstVertex;

@@ -1,4 +1,4 @@
-package com.gazda.algorithms.graph.model.metric;
+package com.gazda.algorithms.graph.dijkstra.model.metric;
 
 import java.util.stream.IntStream;
 import java.lang.Math;

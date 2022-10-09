@@ -1,4 +1,4 @@
-package com.gazda.algorithms.graph.model.graph;
+package com.gazda.algorithms.graph.dijkstra.model.graph;
 
 public class Identifier {
     private String description;

@@ -1,4 +1,4 @@
-package com.gazda.algorithms.graph.model.metric;
+package com.gazda.algorithms.graph.dijkstra.model.metric;
 
 public abstract class Metric {
     public Boolean isGreater(){return false;}
