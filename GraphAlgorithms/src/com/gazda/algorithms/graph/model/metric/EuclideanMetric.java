@@ -8,6 +8,11 @@ public class EuclideanMetric extends Metric{
     private final Double[] firstPoint;
     private final Double[] secondPoint;
 
+    public EuclideanMetric(final Double[] firstPoint, final Double[] secondPoint){
+        this.numberOfDimensions = 1;
+        this.firstPoint = firstPoint;
+        this.secondPoint = secondPoint;
+    }
     public EuclideanMetric(final Integer numberOfDimensions, final Double[] firstPoint, final Double[] secondPoint){
         this.numberOfDimensions = numberOfDimensions;
         this.firstPoint = firstPoint;

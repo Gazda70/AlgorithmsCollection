@@ -1,4 +1,4 @@
-package com.gazda.algorithms.graph.model;
+package com.gazda.algorithms.graph.model.graph;
 
 import com.gazda.algorithms.graph.model.metric.Metric;
 
